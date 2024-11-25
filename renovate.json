@@ -2,5 +2,5 @@
     "extends": [
         "config:recommended"
     ],
-    "npmrc": "{{ secrets.NPMRC }}"
+    "npmToken": "{{ secrets.NPMRC }}"
 }
